@@ -1,2 +1,2 @@
 # chef_Quest
-Recipe app with MERN stack - first 3 features
+Recipe app with MERN stack 
